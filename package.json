@@ -14,9 +14,11 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",
     "astro": "^7.2.3",
+    "cheerio": "^1.2.0",
     "tailwindcss": "^4.3.3"
   },
   "devDependencies": {
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.62.1"
   }
 }
