@@ -13,5 +13,8 @@
   },
   "dependencies": {
     "astro": "^7.2.3"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.2"
   }
 }
